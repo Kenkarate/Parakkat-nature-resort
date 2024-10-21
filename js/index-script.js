@@ -36,7 +36,7 @@ $(function() {
 /*--------------------------------------------------------------
   Hero slider
 --------------------------------------------------------------*/
-    var time = 7; // time in seconds
+    var time = 2; // time in seconds
 
     var $progressBar,
     $bar, 
